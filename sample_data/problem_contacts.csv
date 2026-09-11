@@ -1,0 +1,6 @@
+first_name,last_name,email,department
+Avery,Nguyen,avery.nguyen@example.com,Operations
+Jordan,Patel,,Technology
+Morgan,Reed,morgan.reed@example.com
+Avery,Nguyen,avery.nguyen@example.com,Operations
+Taylor,Kim,taylor.kim@example.com,Support,unexpected_value
